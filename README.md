@@ -1,2 +1,2 @@
-# 😎 Hack all Image diffrence games 
+# 😎 Hack all image differences game 
 the telegram bot
