@@ -1,2 +1,2 @@
-# 😎pysru_bot
+# 😎 Hack all Image diffrence games 
 the telegram bot
