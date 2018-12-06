@@ -1,2 +1,2 @@
-# pysru_bot
+# 😎pysru_bot
 the telegram bot
