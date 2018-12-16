@@ -108,7 +108,7 @@ def result(bot, update):
 
 
 def main():
-    updater = Updater("759262213:AAGlPJipFkMVS-UhzmLMijHzTDhumWa5ZVk")
+    updater = Updater("YOUR TOKEN")
 
     dp = updater.dispatcher
 
